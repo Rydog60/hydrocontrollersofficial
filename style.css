@@ -1,0 +1,60 @@
+.home_mainheading {
+    font-family: sans-serif;
+    padding: 15px;
+    background-color: #66b3ff;
+    color: white;
+    margin-bottom: -15px;
+}
+.home_undermainheading {
+    font-family: sans-serif;
+    padding-left: 15px;
+    text-decoration: underline;
+}
+.contact_us_button {
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 17px;
+    color: white;
+    background-color: lightgreen;
+    border-radius: 20px;
+}
+.green{
+    background-color: #53ff1a;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: 20px;
+}
+.red {
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: 20px;
+}
+.blue {
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: 20px;
+}
+.white {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+}
+.black {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: -3px;
+}
+.color_combos {
+    float: left;
+}
+.color_combos_float {
+    float: right;
+}
